@@ -22,7 +22,7 @@ Setup Instructions:
 
 
 Disclamers:
-- This extension (Probably) doesn't work with browsers that don't use Chromium.
+- This extension (probably) won't work with browsers that don't use Chromium.
 - This extension works by inverting colors, so if your Gmail page has images on the background, this extension inverts those colors too,
 (don't worry about the images of emails, profile images and label colors, those aren't inverted)
 
