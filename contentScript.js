@@ -18,6 +18,11 @@ function applyDarkMode() {
       .qj, .aEe  {
       filter: invert(1) hue-rotate(180deg) !important;
       }
+
+      ::selection {
+        background:rgb(0, 0, 0) !important;
+        color: rgb(255, 255, 255) !important;
+      }
     `;
   document.head.appendChild(style);
 }
