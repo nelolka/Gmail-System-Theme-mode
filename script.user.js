@@ -6,8 +6,8 @@
 // @author       Ed Qweqwe
 // @match        *://mail.google.com/*
 // @icon         https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico
-// @updateURL    https://raw.githubusercontent.com/nelolka/Gmail-System-Theme-mode/script.user.js
-// @downloadURL  https://raw.githubusercontent.com/nelolka/Gmail-System-Theme-mode/script.user.js
+// @updateURL    https://github.com/nelolka/Gmail-System-Theme-mode/raw/refs/heads/main/script.user.js
+// @downloadURL  https://github.com/nelolka/Gmail-System-Theme-mode/raw/refs/heads/main/script.user.js
 // @homepageURL  https://github.com/nelolka/Gmail-System-Theme-mode
 // @supportURL   https://github.com/nelolka/Gmail-System-Theme-mode/issues/
 // @source       https://github.com/nelolka/Gmail-System-Theme-mode
