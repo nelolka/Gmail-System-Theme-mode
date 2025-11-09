@@ -16,7 +16,7 @@
 
 (function () {
 
-  escapeHTMLPolicy = trustedTypes.createPolicy("forceInner", {
+  let escapeHTMLPolicy = trustedTypes.createPolicy("forceInner", {
     createHTML: (to_escape) => to_escape
   })
   const style = document.createElement("style");
